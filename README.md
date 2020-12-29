@@ -8,5 +8,11 @@ I love [this git](https://github.com/brave-people/Dev-Event). So, I want to pars
 
 Dev-Event => Site Crawling => Server => API => Slack / Messanger
 
+## Tech Stack
 
+Not defined..
+
+## Source
+
+- https://github.com/brave-people/Dev-Event
 
