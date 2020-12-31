@@ -10,6 +10,8 @@ Dev-Event => Site Crawling => Server => API => Slack / Messanger
 
 ## Tech Stack
 
+API Service, Slack Bot
+
 Not defined..
 
 ## Source
